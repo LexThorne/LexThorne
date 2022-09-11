@@ -9,3 +9,5 @@ LexThorne/LexThorne is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 0x6847fdd39a18b3b3a40d9a1916fbf91ff442d39b
+
+https://opensea.io/_LexThorne_
